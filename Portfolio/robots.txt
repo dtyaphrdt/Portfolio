@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Direct Google to your sitemap
+Sitemap: https://github.com/dtyaphrdt/sitemap.xml

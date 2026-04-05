@@ -1,5 +1,3 @@
 User-agent: *
 Allow: /
-
-# Direct Google to your sitemap
-Sitemap: https://github.com/dtyaphrdt/sitemap.xml
+Sitemap: https://dtyaphrdt.github.io/Portfolio/sitemap.xml
